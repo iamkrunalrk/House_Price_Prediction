@@ -20,8 +20,7 @@ To use the house price prediction model, follow these steps:
 
 1. Clone this repository to your local machine:
 
-'git clone https://github.com/iamkrunalrk/House_Price_Prediction'
-
+`git clone https://github.com/iamkrunalrk/House_Price_Prediction`
 
 2. Open the Jupyter Notebook: Navigate to the project directory and open the Jupyter Notebook file `house_price_prediction.ipynb` using Jupyter Notebook or JupyterLab.
 
